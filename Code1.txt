@@ -1,3 +1,0 @@
-Oops Concept
-Oops is nothing but object oriented programming structure
-changes
