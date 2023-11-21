@@ -13,6 +13,9 @@ public class StringRev {
         }
         System.out.print(rev);
        
+        StringBuilder sb = new StringBuilder(s);
+        String reversed = sb.reverse().toString();
+        System.out.println(reversed);
     }
     
 }
