@@ -1,7 +1,0 @@
-git clone *LINK* <-- to clone the GIT repo into the local device (clone pannitaa github la irukra Repository apdiye system la reflect aagum)
-git add, commit -m "", git push    <-- idhu moonum one by onnaa pannaa dhaa oru file namma local repo la irundhu github kku move aagum
-       git add *filename.fileextn(eg. Hello.java) <--idhu vandhu specific file ah staging area kku move panradhu
-            git add . <-- indha command enna nna file laa add pannirkomo ellaathayume stagingkku kondu poiydum with the same commit message
-       git commit -m "message" <--oru file add pannaalo illa already irukra file ah edhaachum changes pannaalo summaa oru chinna message kuduthukalaam
-       git push origin *branchname <-- last ah push pannanum appo dhaa namma local la irukra codes laa anga poiy sync aagi reflect aagum
-           
